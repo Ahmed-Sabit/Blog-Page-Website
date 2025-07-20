@@ -8,3 +8,6 @@ git remote add origin https://github.com/Ahmed-Sabit/Blog-Page-Website.git
 git push -u origin main
 
 to renew or modify a Website
+git add .
+git commit -m "Updating a proper HTML file"
+git push
